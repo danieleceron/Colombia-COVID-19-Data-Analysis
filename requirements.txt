@@ -1,0 +1,12 @@
+pandas
+numpy
+datetime
+matplotlib
+seaborn
+datetime
+unidecode
+folium
+geopy
+tqdm
+plotly
+xlrd
