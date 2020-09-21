@@ -10,3 +10,4 @@ geopy
 tqdm
 plotly
 xlrd
+openpyxl
